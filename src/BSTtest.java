@@ -22,7 +22,7 @@ public class BSTtest {
 		if(test7)
 			System.out.println("Pass");
 				
-		//test
+		//
 	}
 
 }
