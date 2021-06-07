@@ -21,8 +21,6 @@ public class BSTtest {
 		boolean test7 = tree.search(10);
 		if(test7)
 			System.out.println("Pass");
-				
-		//
 	}
 
 }
